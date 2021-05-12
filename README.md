@@ -5,7 +5,7 @@ AWS Terraform backend module with S3 and DynamoDB
 ```
  module "backend-module" {
   source  = "cloudxperts/backend-module/aws"
-  version = "1.0.0"
+  version = "1.1.0"
   # insert the 1 required variable here
 }
 ```
